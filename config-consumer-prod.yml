@@ -2,5 +2,5 @@ info:
   profile: prod
 
 name: senyi
-words: 'hello Spring Cloud Config'
+words: 'hello Spring Cloud Config!'
 food: '{cipher}b2e2d57ed0fed1ca6ac1796974346dd2710d9d3204a36e43e6c56aa9a0304507'
